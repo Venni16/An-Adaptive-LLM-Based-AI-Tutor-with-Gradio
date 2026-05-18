@@ -233,5 +233,10 @@ Vite will host the frontend dashboard on `http://localhost:5173`. Open this URL 
 
 ---
 
+## 👤 Author
+Developed and maintained by **Vennilavan Manoharan**.
+
+---
+
 ## 📝 License
-This project is open-source and licensed under the [MIT License](LICENSE). Feel free to adapt, tweak, and use it in your LLM and AI Agent research!
+This project is open-source and licensed under the [MIT License](LICENSE) by **Vennilavan Manoharan**. Feel free to adapt, tweak, and use it in your LLM and AI Agent research!
