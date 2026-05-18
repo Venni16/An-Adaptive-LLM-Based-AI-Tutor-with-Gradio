@@ -10,7 +10,10 @@
   [![TailwindCSS v4](https://img.shields.io/badge/TailwindCSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
   [![LM Studio](https://img.shields.io/badge/LM_Studio-Dark_Mode-blueviolet?style=for-the-badge)](https://lmstudio.ai)
   
-  *Designed and developed as part of the **LLM Engineering, RAG, & AI Agents Masterclass (2026)***
+  ---
+  
+  ### 🎓 Udemy Course Project
+  This is **Project 3** of the highly acclaimed Udemy course: **[LLM Engineering, RAG, & AI Agents Masterclass [2026]]**. It has been built and significantly enhanced from the initial Jupyter Notebook course work into a premium, state-of-the-art **Fullstack Web App + AI Integration**.
 </div>
 
 ---
